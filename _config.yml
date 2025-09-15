@@ -1,0 +1,8 @@
+title: My portfolio
+name: Ashley Klepacki
+email: w0609122@myscc.ca
+
+collections:
+  design:
+    output: true
+    permalink: :/collection/path/
